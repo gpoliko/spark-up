@@ -5,7 +5,6 @@
 /tmp
 /out-tsc
 /target
-/reports
 
 # envs
 .env*
@@ -39,11 +38,6 @@ testem.log
 .DS_Store
 Thumbs.db
 
-# Firebase
-**/.firebase
-firebase-debug.log
-**/*.serviceaccount.json
-
 ui-debug.log
 .secret.local
 
@@ -55,6 +49,10 @@ ui-debug.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# typscript
+*.tsbuildinfo
+next-env.d.ts
 
 # Vercel
 .vercel
