@@ -1,0 +1,41 @@
+(globalThis.TURBOPACK = globalThis.TURBOPACK || []).push([
+    "chunks/ssr/[next]_entry_app-renderer_tsx_8cb94f._.js",
+    {},
+]);
+(globalThis.TURBOPACK_CHUNK_LISTS = globalThis.TURBOPACK_CHUNK_LISTS || []).push({
+  "path": "chunks/ssr/[next]_entry_app-renderer_tsx_8cb94f._.js",
+  "chunks": [
+    "chunks/ssr/[turbopack-node]_ipc_index_ts_7740b2._.js",
+    "chunks/ssr/[turbopack-node]_compiled_stacktrace-parser_index_927973.js",
+    "chunks/ssr/[next]_polyfill_app-polyfills_ts_28c376._.js",
+    "chunks/ssr/[next]_internal_headers_ts_f4dfc9._.js",
+    "chunks/ssr/[next]_internal_http_ts_a84fee._.js",
+    "chunks/ssr/[next]_entry_app-renderer_tsx_caa445._.js",
+    "chunks/ssr/08b5e_b143c9._.js",
+    "chunks/ssr/_env_b53fce.js",
+    "chunks/ssr/app_layout_tsx_fb1878._.js",
+    "chunks/ssr/app_favicon_ico_mjs_9270a9._.js",
+    "chunks/ssr/app_about_page_tsx_fd7fe4._.js",
+    "chunks/ssr/lib_constants_navigation_ts_1f738f._.js",
+    "chunks/ssr/components_Navigation_index_tsx_6a786f._.js",
+    "chunks/ssr/components_SharedHeader_SharedHeader_tsx_59dca9._.js",
+    "chunks/ssr/components_SharedLayout_index_tsx_15917f._.js",
+    "chunks/ssr/[next]_entry_app_server-to-client-ssr_tsx_21efb3._.js",
+    "chunks/ssr/[next]_entry_app_server-to-client-ssr_tsx_962c17._.js",
+    "chunks/ssr/[next]_entry_app_server-to-client-ssr_tsx_d2539e._.js",
+    "chunks/ssr/[next]_entry_app_server-to-client-ssr_tsx_2d2d3f._.js",
+    "chunks/ssr/[next]_entry_app_server-to-client-ssr_tsx_a33db4._.js",
+    "chunks/ssr/[next]_entry_app_server-to-client-ssr_tsx_f0b14d._.js",
+    "chunks/ssr/[next]_entry_app_server-to-client-ssr_tsx_d91596._.js",
+    "chunks/ssr/[next]_entry_app_layout-entry_tsx_b53fce._.js",
+    "chunks/ssr/[next]_entry_app_layout-entry_tsx_f6fb64._.js",
+    "chunks/ssr/08b5e_next_dist_1ba688._.js",
+    "chunks/ssr/app_layout_tsx_7dc642._.js",
+    "chunks/ssr/app_layout_tsx_b53fce._.js",
+    "chunks/ssr/app_layout_tsx_f6fb64._.js",
+    "chunks/ssr/app_about_page_tsx_c3281a._.js",
+    "chunks/ssr/app_about_page_tsx_b53fce._.js",
+    "chunks/ssr/app_about_page_tsx_f6fb64._.js"
+  ],
+  "source": "entry"
+});

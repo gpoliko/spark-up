@@ -5,14 +5,15 @@
   "license": "MIT",
   "private": true,
   "workspaces": [
-    "web",
-    "backend"
+    "client",
+    "server"
   ],
   "scripts": {
-    "web": "yarn workspace web run dev",
-    "test:web": "yarn workspace web run test",
-    "lint:web": "yarn workspace web run lint",
-    "backend:start": "yarn workspace backend run start"
+    "client": "yarn workspace client run dev",
+    "test:client": "yarn workspace client run test",
+    "lint:client": "yarn workspace client run lint",
+    "storybook": "yarn workspace client run storybook",
+    "server:start": "yarn workspace server run start"
   },
   "devDependencies": {
     "@types/node": "^20.3.1",
