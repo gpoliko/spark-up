@@ -3,9 +3,6 @@
 A decentralized crowdfunding application built on the Ethereum blockchain.
 
 ## Prerequisites
-
----
-
 The following must be installed on your machine:
 
 - Node.js (v14 or later)
@@ -13,9 +10,6 @@ The following must be installed on your machine:
 - Metamask account/wallet
 
 ## Getting Started
-
----
-
 **1.** Clone repository:
 
 ```bash
