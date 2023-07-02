@@ -25,7 +25,7 @@ yarn install
 Run the development server:
 
 ```bash
-yarn run web
+yarn run client
 ```
 
 Open [https://localhost:3000](http://localhost:3000) with your browser to see the result.
